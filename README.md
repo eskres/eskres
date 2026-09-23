@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Einar / @eskres
-- 💼 Front-end dev building for FTSE 100, Big 4 accounting firms and more
-- 🛠️ TypeScript, React, Next.js, Tailwind CSS, Chakra UI, Motion.dev
-- 🌱 Currently building out https://brewica.com
+- 💼 Software Engineer with experience delivering projects for FTSE 100 and Big 4 accounting firms and more
+- 🛠️ TypeScript, React, Next.js, Python, FastAPI, Django
 - 📫 Reach me via https://skreslett.com
 
 <!---
