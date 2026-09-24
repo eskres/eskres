@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Einar / @eskres
-- 💼 Software Engineer with experience delivering projects for FTSE 100 and Big 4 accounting firms and more
+- 💼 Software Engineer with experience delivering projects for FTSE 100 and Big 4 accounting firms.
 - 🛠️ TypeScript, React, Next.js, Python, FastAPI, Django
 - 📫 Reach me via https://skreslett.com
 
